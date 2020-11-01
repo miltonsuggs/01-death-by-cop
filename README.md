@@ -14,10 +14,12 @@ provided by user Andriy Samoshyn (https://www.kaggle.com/mrmorj)
 
 ## METHODOLOGY
 
-This notebook consists of an exploratory data analysis of the variables presented in the dataset. Among some of the variables are the follwoing:
 
 | ![alt text](police_ageranges.png)   | ![alt text](police_race.png) | ![alt text](police_weapon.png) |
 | ------AGE RANGES OF VICTIMS-------- |:------RACE OF VICTIMS-------:| -----WEAPON TYPE OF VICTIM----:|
+
+This notebook consists of an exploratory data analysis of the variables presented in the dataset. Among some of the variables are the follwoing:
+
 
 Both univariate and bivariate analyses were performed to determine any correlating factors. 
 
