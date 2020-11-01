@@ -24,7 +24,7 @@ Both univariate and bivariate analyses were performed to determine any correlati
 
 ## CONCLUSION
 
-| Tables        | Are           | Cool  |
+| ![alt text](police_ageranges.png)        | ![alt text](police_race.png)           | ![alt text](police_weapon.png)  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
