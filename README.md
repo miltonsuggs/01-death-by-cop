@@ -25,7 +25,7 @@ Both univariate and bivariate analyses were performed to determine any correlati
 ## CONCLUSION
 
 | ![alt text](police_ageranges.png)        | ![alt text](police_race.png)           | ![alt text](police_weapon.png)  |
-| AGE RANGES OF VICTIMS |:RACE OF VICTIMS:| WEAPON TYPE OF VICTIM:|
+| -----d-------- |:------d-------:| ---d--:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
