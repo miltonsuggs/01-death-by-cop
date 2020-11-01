@@ -25,5 +25,9 @@ Both univariate and bivariate analyses were performed to determine any correlati
 ## CONCLUSION
 
 | Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 ## FUTURE WORK
