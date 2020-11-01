@@ -12,12 +12,17 @@ I hope this notebook provides you with insights and I hope that we can all work 
 The data used in this note book comes from Kaggle (https://www.kaggle.com/mrmorj/data-police-shootings?select=fatal-police-shootings-data.csv)
 provided by user Andriy Samoshyn (https://www.kaggle.com/mrmorj)
 
-## OBSERVATIONS
+## METHODOLOGY
 
-| ![alt text](police_ageranges.png)   | ![alt text](police_race.png) | ![alt text](police_race.png) |
-| ------------- |:-------------:| -----:|
+This notebook consists of an exploratory data analysis of the variables presented in the dataset. Among some of the variables are the follwoing:
 
+| ![alt text](police_ageranges.png)   | ![alt text](police_race.png) | ![alt text](police_weapon.png) |
+| ------AGE RANGES OF VICTIMS-------- |:------RACE OF VICTIMS-------:| -----WEAPON TYPE OF VICTIM----:|
+
+Both univariate and bivariate analyses were performed to determine any correlating factors. 
 
 ## CONCLUSION
+
+
 
 ## FUTURE WORK
