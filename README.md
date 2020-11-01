@@ -14,5 +14,10 @@ provided by user Andriy Samoshyn (https://www.kaggle.com/mrmorj)
 
 ## OBSERVATIONS
 
+| ![alt text](police_ageranges.png)   | ![alt text](police_race.png) | ![alt text](police_race.png) |
+| ------------- |:-------------:| -----:|
+
 
 ## CONCLUSION
+
+## FUTURE WORK
