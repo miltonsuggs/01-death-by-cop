@@ -18,7 +18,6 @@ provided by user Andriy Samoshyn (https://www.kaggle.com/mrmorj)
 
 ## METHODOLOGY
 
-
 This notebook consists of an exploratory data analysis of the variables presented in the dataset. Among some of the variables are the follwoing:
 
 | AGE RANGES OF VICTIMS   | RACE OF VICTIMS | WEAPON TYPE OF VICTIM |
@@ -28,10 +27,17 @@ This notebook consists of an exploratory data analysis of the variables presente
 Both univariate and bivariate analyses were performed to determine any correlating factors. 
 
 
+## OUTSTANDING OBSERVATIONS
 
-## CONCLUSION
-
-
-
+* Most police killings occur in the month of January
+* People 18-35 are killed by police the most
+* The data set does not include population information, so the numbers of killings by race does not reflect any disparities or biases that may be present. However while we do know that Black and Hispanic people make up about 13% & 16% of the United States population respectively and White people make up about 70%, they are kill disproportionately to their
+population. Of the people listed in the data set, 50% are White, 27% are Black (twice the population!) and 17% are Hispanic.
 
 ## FUTURE WORK
+
+I would like to continue this research by including population information for each state as well as other geographic and economic information such as per capita income.
+
+Thanks for stopping by!
+
+Milton
