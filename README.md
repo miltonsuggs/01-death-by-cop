@@ -14,7 +14,7 @@ provided by user Andriy Samoshyn (https://www.kaggle.com/mrmorj)
 
 ## METHODOLOGY
 
-
+| ------AGE RANGES OF VICTIMS-------- |:------RACE OF VICTIMS-------:| -----WEAPON TYPE OF VICTIM----:|
 | ![alt text](police_ageranges.png)   | ![alt text](police_race.png) | ![alt text](police_weapon.png) |
 
 This notebook consists of an exploratory data analysis of the variables presented in the dataset. Among some of the variables are the follwoing:
