@@ -6,11 +6,15 @@ Since its inception, police in America have continued to have a tenuous and vola
 
 I hope this notebook provides you with insights and I hope that we can all work toward rectifying the racial and economic disparity that continues to fuel police brutality in these United States of America.
 
+
+
 ## ABOUT THE DATA 
 
 #### SOURCE: 
 The data used in this note book comes from Kaggle (https://www.kaggle.com/mrmorj/data-police-shootings?select=fatal-police-shootings-data.csv)
 provided by user Andriy Samoshyn (https://www.kaggle.com/mrmorj)
+
+
 
 ## METHODOLOGY
 
@@ -22,6 +26,8 @@ This notebook consists of an exploratory data analysis of the variables presente
 | ![alt text](police_ageranges.png)        | ![alt text](police_race.png)           | ![alt text](police_weapon.png)  |
 
 Both univariate and bivariate analyses were performed to determine any correlating factors. 
+
+
 
 ## CONCLUSION
 
